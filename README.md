@@ -1,6 +1,6 @@
 # Arduino Simple Projects Repository
 
-This repository contains a collection of simple projects solved in "Arduino C", completed during my studies at an arduino course.
+This repository contains a collection of simple projects solved in C++, completed during my studies at an arduino course.
 
 ## Contents
 
@@ -14,15 +14,15 @@ The repository is organized into folders, including:
 
 ## Code
 
-The code is written in "Arduino C", using the latest versions of Arduino IDE.
+The code is written in C++/"Arduino C", using the latest versions of Arduino IDE.
 
 ## Purpose
 
 The purpose of this repository is to:
 
-* Keep a record of my studies and progress in "Arduino C"
+* Keep a record of my studies and progress in C++
 * Share knowledge and experiences with other students and developers
-* Demonstrate skills and competencies in "Arduino C"
+* Demonstrate skills and competencies in C++
 
 ## License
 
